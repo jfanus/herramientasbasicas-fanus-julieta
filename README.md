@@ -60,3 +60,8 @@ En primer lugar, se destaca el predominio del canal online como principal medio 
 Por otro lado, se observó una concentración significativa de los ingresos en determinadas marcas, lo que sugiere un posicionamiento diferencial dentro del mercado. En cuanto a los productos, las categorías más vendidas reflejan preferencias definidas por parte de los consumidores, lo que resulta clave para la toma de decisiones comerciales.
 
 En conjunto, los resultados obtenidos permiten no solo describir el comportamiento de las ventas, sino también generar información valiosa para orientar estrategias futuras, optimizar la oferta de productos y mejorar la eficiencia de los canales de comercialización.
+##  Archivos del proyecto
+
+- Dataset: makeup_sales_dataset_2025.csv  
+- Notebook: TP_FINAL_Julieta_Fanus (1).ipynb  
+- Dashboard: Trabajo Final- Julieta Fanus.pbix 
