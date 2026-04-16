@@ -62,6 +62,6 @@ Por otro lado, se observó una concentración significativa de los ingresos en d
 En conjunto, los resultados obtenidos permiten no solo describir el comportamiento de las ventas, sino también generar información valiosa para orientar estrategias futuras, optimizar la oferta de productos y mejorar la eficiencia de los canales de comercialización.
 ##  Archivos del proyecto
 
-- Dataset: makeup_sales_dataset_2025.csv  
-- Notebook: TP_FINAL_Julieta_Fanus (1).ipynb  
-- Dashboard: Trabajo Final- Julieta Fanus.pbix 
+- Dataset: [makeup_sales_dataset_2025.csv](https://github.com/jfanus/herramientasbasicas-fanus-julieta/blob/main/makeup_sales_dataset_2025.csv)  
+- Notebook: [TP_FINAL_Julieta_Fanus (1).ipynb](https://github.com/jfanus/herramientasbasicas-fanus-julieta/blob/main/TP_FINAL_Julieta_Fanus%20(1).ipynb)  
+- Dashboard: [Trabajo Final- Julieta Fanus.pbix](https://github.com/jfanus/herramientasbasicas-fanus-julieta/blob/main/Trabajo%20Final-%20Julieta%20Fanus.pbix)  
